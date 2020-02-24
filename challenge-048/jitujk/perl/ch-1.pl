@@ -1,18 +1,11 @@
 #!/usr/bin/env perl
 
 =pod
-Created by Jitu Keshwani
 
 There are 50 people standing in a circle in position 1 to 50. The person standing at position 1 has a sword. He kills the next person i.e. standing at position 2 and pass on the sword to the immediate next i.e. person standing at position 3. Now the person at position 3 does the same and it goes on until only one survives.
 
 This is the script to find out the survivor.
 Problem from :: https://perlweeklychallenge.org/blog/perl-weekly-challenge-048/
-
-Usage:
-./ch-1.pl
-Enter the number of people in the list
-50 							<< This is your input
-Survivor is ManXX 					>> This is your output
 
 =cut
 
